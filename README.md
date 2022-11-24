@@ -1,4 +1,4 @@
-- 👋 Merhaba, Ben @Yeku75
+- 👋 Hello, I Yeku
 - 👀 I’m interested in Front-end Back-end Developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Html-Css
