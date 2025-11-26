@@ -1,7 +1,6 @@
-- 👋 Hello, I Yeku
-- 👀 I’m interested in Front-end Back-end Developer
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Html-Css
+- 👋 Hello, I'm Yeku
+- 👀 I’m interested in Game Developer
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me Discord
 
 <!---
